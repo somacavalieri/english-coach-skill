@@ -51,9 +51,7 @@ Maximum one or two sentences. Do not explain the changes — just show before an
 
 After every interaction where there were corrections, **append** the entry to a markdown log file. Use the Bash tool to do this.
 
-The log file path is: `<COWORK_FOLDER>/english-coach-log.md`
-
-Where `<COWORK_FOLDER>` is the user's mounted folder if available (check if `/sessions/ecstatic-dreamy-babbage/mnt/outputs` exists and has write access), otherwise use `/sessions/ecstatic-dreamy-babbage/mnt/outputs`.
+The log file path is: `/Users/flaviocavalieri/Library/CloudStorage/GoogleDrive-somacavalieri@gmail.com/My Drive/_claude/skills/english_coach/english-coach-log.md`
 
 Each log entry should follow this format:
 
