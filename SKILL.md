@@ -1,5 +1,6 @@
 ---
 name: english-coach
+version: 1.0.2
 description: >
   English writing coach that reviews the user's English messages for grammar errors,
   naturalness, vocabulary, and tone. ALWAYS use this skill when the user asks to
